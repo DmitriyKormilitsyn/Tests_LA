@@ -1,0 +1,48 @@
+D:\МГУЛ\Тесты_ЛА\Test\Test\bin\Debug\Test.exe.config
+D:\МГУЛ\Тесты_ЛА\Test\Test\bin\Debug\Test.exe
+D:\МГУЛ\Тесты_ЛА\Test\Test\bin\Debug\Test.pdb
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.exe
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.pdb
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.Registrations.resources
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.Choice_theme.resources
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.TestForm.resources
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\МГУЛ\Тесты_ЛА\Test\Test\obj\Debug\Test.Choice_group.resources
+D:\МГУЛ\Тесты_ЛА\Test\Test\bin\Debug\itextsharp.dll
+D:\МГУЛ\Тесты_ЛА\Test\Test\bin\Debug\itextsharp.pdfa.dll
+D:\МГУЛ\Тесты_ЛА\Test\Test\bin\Debug\itextsharp.xtra.dll
+D:\МГУЛ\Тесты ЛА\Test\bin\Debug\Test.exe.config
+D:\МГУЛ\Тесты ЛА\Test\bin\Debug\Test.exe
+D:\МГУЛ\Тесты ЛА\Test\bin\Debug\Test.pdb
+D:\МГУЛ\Тесты ЛА\Test\bin\Debug\itextsharp.dll
+D:\МГУЛ\Тесты ЛА\Test\bin\Debug\itextsharp.pdfa.dll
+D:\МГУЛ\Тесты ЛА\Test\bin\Debug\itextsharp.xtra.dll
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Choice_theme.resources
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Choice_group.resources
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Properties.Resources.resources
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Registrations.resources
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.TestForm.resources
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.csproj.CopyComplete
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.exe
+D:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.pdb
+C:\МГУЛ\Тесты ЛА\Test\bin\Debug\Test.exe.config
+C:\МГУЛ\Тесты ЛА\Test\bin\Debug\Test.exe
+C:\МГУЛ\Тесты ЛА\Test\bin\Debug\Test.pdb
+C:\МГУЛ\Тесты ЛА\Test\bin\Debug\itextsharp.dll
+C:\МГУЛ\Тесты ЛА\Test\bin\Debug\itextsharp.pdfa.dll
+C:\МГУЛ\Тесты ЛА\Test\bin\Debug\itextsharp.xtra.dll
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Choice_theme.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Choice_group.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Properties.Resources.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.Registrations.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.TestForm.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.csproj.CopyComplete
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.exe
+C:\МГУЛ\Тесты ЛА\Test\obj\Debug\Test.pdb

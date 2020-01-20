@@ -1,0 +1,16 @@
+C:\МГУЛ\Тесты ЛА\Test\bin\x86\Debug\Test.exe.config
+C:\МГУЛ\Тесты ЛА\Test\bin\x86\Debug\Test.exe
+C:\МГУЛ\Тесты ЛА\Test\bin\x86\Debug\Test.pdb
+C:\МГУЛ\Тесты ЛА\Test\bin\x86\Debug\itextsharp.dll
+C:\МГУЛ\Тесты ЛА\Test\bin\x86\Debug\itextsharp.pdfa.dll
+C:\МГУЛ\Тесты ЛА\Test\bin\x86\Debug\itextsharp.xtra.dll
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.csprojAssemblyReference.cache
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.Choice_theme.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.Choice_group.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.Registrations.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.TestForm.resources
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.csproj.GenerateResource.cache
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.csproj.CopyComplete
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.exe
+C:\МГУЛ\Тесты ЛА\Test\obj\x86\Debug\Test.pdb
